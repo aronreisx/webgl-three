@@ -1,0 +1,12 @@
+{
+  "name": "webgl-three",
+  "version": "1.0.0",
+  "description": "Website using three.js library",
+  "main": "app.js",
+  "repository": "https://github.com/aronreisx/webgl-three.git",
+  "author": "Aron Reis <aronreis2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.131.3"
+  }
+}
